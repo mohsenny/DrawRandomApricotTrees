@@ -1,4 +1,6 @@
 # RandomApricotTree
+On every execution, there will be a random image of an apricot generated, with green leaves and yellow fruits.
+
 
 ```
 npm install
